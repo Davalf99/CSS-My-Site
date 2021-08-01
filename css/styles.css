@@ -1,0 +1,141 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    background-color: #EEEEEE;
+}
+
+h1{
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    font-family: 'Satisfy', cursive;
+    color: #EEEEEE;
+}
+
+h2{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-size: 2.5rem;
+    color: #334257;
+}
+
+h3{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+hr{
+    border: dotted;
+    margin: 100px auto;
+    width: 10%;
+    border-bottom: none;
+    border-width: 0.5rem;
+    color: lightgray;
+    clear: both;
+}
+
+
+.top-container{
+    background-color: #548CA8;
+    position: relative;
+    padding-top: 70px;
+}
+
+.middle-container{
+    
+}
+
+.bottom-container{
+    background-color: #548CA8;
+    margin-top: 100px;
+    padding: 40px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 30px;
+}
+
+.profile{
+    border-radius: 100%;
+    margin-top: 20px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 150px auto;
+    text-align: left;
+    line-height: 2;
+    clear: both;
+}
+
+.code-image{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 60px;
+}
+
+.guitar-image{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    margin-bottom: 60px;
+}
+
+.footer-link{
+    margin: 0 20px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: bold;
+    color: #476072;
+    text-decoration: none;
+}
+
+.footer-link:hover{
+    color: lightgray;
+}
+
+.cr{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    font-weight: bold;
+    color: lightgray;
+    margin-top: 50px;
+}
+
+
+
+.BUTTON_AVY {
+   background: #83AABD;
+   background-image: -webkit-linear-gradient(top, #83AABD, #548CA8);
+   background-image: -moz-linear-gradient(top, #83AABD, #548CA8);
+   background-image: -ms-linear-gradient(top, #83AABD, #548CA8);
+   background-image: -o-linear-gradient(top, #83AABD, #548CA8);
+   background-image: -webkit-gradient(to bottom, #83AABD, #548CA8);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+   font-family: 'Yanone Kaffeesatz', sans-serif;
+   font-size: 15px;
+   font-weight: 100;
+   padding: 15px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 50px;
+   width: 80px;
+}
+
+.BUTTON_AVY:hover {
+   border: solid #337FED 1px;
+   background: #84a3b3;
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
